@@ -28,4 +28,4 @@ This project provides in-depth analysis and visualization of IPL matches from 20
 ## 🚀 How to Use  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/ipl-data-analytics.git
+   git clone https://github.com/shubhambhor13/IPL-Analysis-2008---2024.git
