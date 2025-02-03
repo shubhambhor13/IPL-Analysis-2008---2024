@@ -1,7 +1,7 @@
-# 🏏 IPL Data Analytics (2008-2024) – A Live Data Science Project  
+# 🏏 IPL Data Analytics (2008-2024) – A Live Data Analysis Project  
 
 ## 📌 Project Overview  
-This project provides in-depth analysis and visualization of IPL matches from 2008 to 2024. Using **Python, Power BI, SQL, and Machine Learning**, we have explored match trends, team performances, and player statistics to extract meaningful insights.  
+This project provides in-depth analysis and visualization of IPL matches from 2008 to 2024. Using **Python, Power BI, SQL**, we have explored match trends, team performances, and player statistics to extract meaningful insights.  
 
 ## 👥 Team Members  
 - **Shubham Bhor**  
